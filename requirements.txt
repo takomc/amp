@@ -1,0 +1,5 @@
+torch==2.1.0
+torchvision==0.16.0
+transformers==4.31.0
+tokenizers==0.12.1
+peft==0.7.1
