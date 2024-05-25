@@ -1,6 +1,5 @@
-source /root/paddlejob/workspace/env_run/disk_large/zmx/env_cogvlm2.sh
 
-export CUDA_VISIBLE_DEVICES=3
+export CUDA_VISIBLE_DEVICES=0
 export CRYPTOGRAPHY_OPENSSL_NO_LEGACY=1
 
 MODEL_BASE=[Path to Base Model]
