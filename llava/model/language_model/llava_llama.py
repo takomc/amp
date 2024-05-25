@@ -146,16 +146,14 @@ class LlavaLlamaForCausalLM(LlamaForCausalLM, LlavaMetaForCausalLM):
                     attention_mask,
                     past_key_values,
                     inputs_embeds,
-                    labels,
-                    loss_turbo
-                ) = self.prepare_inputs_labels_for_multimodal(
+                    labels
+                ) = self.prepare_inputs_labels_for_multimodal_eval(
                     input_ids,
                     position_ids,
                     attention_mask,
                     past_key_values,
                     labels,
                     images,
-                    loss_turbo
                 )
 
             return super().forward(
