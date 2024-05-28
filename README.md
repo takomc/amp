@@ -5,7 +5,7 @@
 <h4 align="center"> 
 
 <a href='https://arxiv.org/abs/2405.11165'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-<a href='https://huggingface.co/collections/HuanjinYao/denseconnector-66500e173fc8c9f05dc98dea'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'></a>
+<a href='https://huggingface.co/collections/mengxizhang/amp-665589e5fda461267cfb402f'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'></a>
 
 [Mengxi Zhang](https://scholar.google.com/citations?user=73tAoEAAAAAJ&hl=en),
 [Wenhao Wu](https://whwu95.github.io/),
@@ -28,7 +28,7 @@
 
 ***
 ## News  
-- [x] **[2024/05/29]** We relase **AMP** in [arxiv](https://arxiv.org/abs/2405.11165)! Our code, [MRHal Benchmark](https://huggingface.co/datasets/mengxizhang/MRHal-Bench), and [models]() are now open source!
+- [x] **[2024/05/29]** We relase **AMP** in [arxiv](https://arxiv.org/abs/2405.11165)! Our code, [MRHal Benchmark](https://huggingface.co/datasets/mengxizhang/MRHal-Bench), and [models](https://huggingface.co/collections/mengxizhang/amp-665589e5fda461267cfb402f) are now open source!
 
 
 ## Overview
@@ -120,7 +120,16 @@ We provide several dialogue examples, with additional results available in the [
 <img width="800" alt="image" src="images/qualitative_results.png">
 </div>
 
-
+## Citation
+If you find this repository is useful, please consider star🌟 this repo and cite🖇️ our paper.
+```bibtex
+@article{zhang2024amp,
+      title={Automated Multi-level Preference for MLLMs}, 
+      author={Zhang, Mengxi and Wu, Wenhao and Yu, Lu and Song, Yuxin and Rong, Kang and Yao, Huanjin and Zhang, Jianbo and Liu, Fanglong and Feng, Haocheng and Sun, Yifan and Wang, Jingdong},
+      journal={arXiv preprint arXiv:2405.11165},
+      year={2024}
+}
+```
 
 ## Thanks
 Our code is partly based on [[LLaVA](https://llava-vl.github.io/)], [[LLaVA-RLHF](https://llava-rlhf.github.io/)], and [[TRL](https://github.com/huggingface/trl)]. Thanks for their excllent work!
