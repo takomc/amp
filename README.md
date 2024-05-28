@@ -9,7 +9,7 @@
 
 [Mengxi Zhang](https://scholar.google.com/citations?user=73tAoEAAAAAJ&hl=en),
 [Wenhao Wu](https://whwu95.github.io/),
-[Yu Lu](),
+[Yu Lu](https://yulu.net.cn/),
 [Yuxin Song](),
 
 
