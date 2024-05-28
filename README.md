@@ -1,7 +1,52 @@
-# Automated Multi-level Preference for MLLMs
-![](https://github.com/takomc/amp/blob/main/images/intro.png)
+<div align="center">
+
+<h1> Automated Multi-level Preference for MLLMs </h1>
+
+<h4 align="center"> 
+
+<a href='https://arxiv.org/abs/2405.11165'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+<a href='https://huggingface.co/collections/HuanjinYao/denseconnector-66500e173fc8c9f05dc98dea'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'></a>
+
+[Mengxi Zhang](https://scholar.google.com/citations?user=73tAoEAAAAAJ&hl=en),
+[Wenhao Wu](https://whwu95.github.io/),
+[Yu Lu](),
+[Yuxin Song](),
+
+
+[Kang Rong](),
+[Huanjin Yao](https://scholar.google.com/citations?user=pDtsCBQAAAAJ&hl=zh-CN),
+[Jianbo Zhang](),
+[Fanglong Liu](),
+[Yifan Sun](),
+[Haocheng Feng](),
+[Jingdong Wang](https://jingdongwang2017.github.io/)
+
+
+
+</h4>
+</div>
+
+***
+## News  
+- [x] **[2024/05/29]** We relase **AMP** in [arxiv](https://arxiv.org/abs/2405.11165)! The code and models are now open source!
+
+
 ## Overview
+
+
 We present an automated Multi-level Preference (AMP) framework for Reinforcement Learning from Human Feedback (RLHF), which generates the high-quality multi-level preference dataset without any human/AI annotators and employs multi-level DPO (MDPO) algorithm. Our AMP achieves SOTA performance across multiple hallucination benchmarks, including MMHal-Bench, MRHal-Bench, LLaVA-Bench, and POPE.
+
+<div align=center>
+<img width="800" alt="image" src="images/intro.png">
+</div>
+
+
+
+<div align=center>
+<img width="800" alt="image" src="images/data-build.png">
+    
+Pipeline for Constructing Human-free Multi-level Preference Dataset
+</div>
 
 ## Prepare
 1. Install some important packages.
@@ -66,6 +111,15 @@ You can also use our trained models for evaluation. We provide the lora adpater 
 | 7B | IG | [IG-7B](https://huggingface.co/mengxizhang/amp_ig_7b) |
 | 13B | MEG | [MEG-13B](https://huggingface.co/mengxizhang/amp_meg_13b) |
 | 13B | IG | [IG-13B](https://huggingface.co/mengxizhang/amp_ig_13b) |
+
+## Dialogue Example
+
+We provide several dialogue examples, with additional results available in the [paper](https://arxiv.org/abs/2405.11165).
+
+<div align=center>
+<img width="800" alt="image" src="images/qualitative_results.png">
+</div>
+
 
 
 ## Thanks
