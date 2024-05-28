@@ -5,6 +5,7 @@
 <h4 align="center"> 
 
 <a href='https://arxiv.org/abs/2405.11165'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+<a href='https://huggingface.co/collections/HuanjinYao/denseconnector-66500e173fc8c9f05dc98dea'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'></a>
 
 [Mengxi Zhang](https://scholar.google.com/citations?user=73tAoEAAAAAJ&hl=en),
 [Wenhao Wu](https://whwu95.github.io/),
@@ -26,6 +27,8 @@
 </div>
 
 ***
+## News  
+- [x] **[2024/05/29]** We relase **AMP** in [arxiv](https://arxiv.org/abs/2405.11165)! The code and models are now open source!
 
 
 ## Overview
@@ -111,10 +114,10 @@ You can also use our trained models for evaluation. We provide the lora adpater 
 
 ## Dialogue Example
 
-We provide several dialogue examples, with additional results available in the [paper](https://arxiv.org/abs/2405.13800).
+We provide several dialogue examples, with additional results available in the [paper](https://arxiv.org/abs/2405.11165).
 
 <div align=center>
-<img width="530" alt="image" src="images/qualitative_results.jpg">
+<img width="800" alt="image" src="images/qualitative_results.png">
 </div>
 
 
