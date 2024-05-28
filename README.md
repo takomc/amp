@@ -14,9 +14,9 @@ pip install -r requirements.txt
 
 2. Download Base Model
 
-    [llava-7b-base](https://pan.baidu.com/s/1bEbpppdICP7ykYqdQgX7NA?pwd=t9w1)
+    [llava-7b-base](https://huggingface.co/mengxizhang/amp-7b-base)
 
-    [llava-13b-base](https://pan.baidu.com/s/1HGDsnFFHW-rkVcbN5nzj0w?pwd=7bsr)
+    [llava-13b-base](https://huggingface.co/mengxizhang/amp-13b-base)
 
 ## Train
 1. Prepare data from [[RLHF-V](https://rlhf-v.github.io/)], [[SILKIE](https://vlf-silkie.github.io/)], [[ShareGPT4V](https://sharegpt4v.github.io/)].
@@ -38,7 +38,7 @@ sh scripts/7b-v1.5/train_dpo.sh     # 7B
 sh eval/eval_scripts/eval_mmhal.sh
 ```
 ### MRHal-Bench
-1. Download data from [[MRHal-Bench](https://pan.baidu.com/s/16KxGcuqVZLwG7a9opxPuOQ?pwd=a3ct)].
+1. Download data from [[MRHal-Bench](https://huggingface.co/datasets/mengxizhang/MRHal-Bench)].
 2. Run the script
 ```Shell
 sh eval/eval_scripts/eval_mrhal.sh
@@ -62,10 +62,10 @@ sh eval/eval_scripts/eval_llavab.sh
 You can also use our trained models for evaluation. We provide the lora adpater of each version.
 | Size| Dataset | Link | 
 |----------|----------|-----------|
-| 7B | MEG | [MEG-7B](https://pan.baidu.com/s/1CyzsK_ysNzPOEHwezkwG1g?pwd=hkvk) |
-| 7B | IG | [IG-7B](https://pan.baidu.com/s/1J0J0zpe9CjhB1Abeh5kwXA?pwd=u757) |
-| 13B | MEG | [MEG-13B](https://pan.baidu.com/s/1vWV-geWoNGbXak23n5CIzg?pwd=ky37) |
-| 13B | IG | [IG-13B](https://pan.baidu.com/s/1J0J0zpe9CjhB1Abeh5kwXA?pwd=u757) |
+| 7B | MEG | [MEG-7B](https://huggingface.co/mengxizhang/amp_meg_7b) |
+| 7B | IG | [IG-7B](https://huggingface.co/mengxizhang/amp_ig_7b) |
+| 13B | MEG | [MEG-13B](https://huggingface.co/mengxizhang/amp_meg_13b) |
+| 13B | IG | [IG-13B](https://huggingface.co/mengxizhang/amp_ig_13b) |
 
 
 ## Thanks
