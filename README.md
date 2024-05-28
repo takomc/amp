@@ -28,7 +28,7 @@
 
 ***
 ## News  
-- [x] **[2024/05/29]** We relase **AMP** in [arxiv](https://arxiv.org/abs/2405.11165)! The code and models are now open source!
+- [x] **[2024/05/29]** We relase **AMP** in [arxiv](https://arxiv.org/abs/2405.11165)! Our code, [MRHal Benchmark](https://huggingface.co/datasets/mengxizhang/MRHal-Bench), and [models]() are now open source!
 
 
 ## Overview
