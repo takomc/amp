@@ -4,7 +4,7 @@
 
 <h4 align="center"> 
 
-<a href='https://arxiv.org/abs/2405.11165'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+<a href='https://arxiv.org/pdf/2405.11165v4'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 <a href='https://huggingface.co/collections/mengxizhang/amp-665589e5fda461267cfb402f'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'></a>
 
 [Mengxi Zhang](https://scholar.google.com/citations?user=73tAoEAAAAAJ&hl=en),
