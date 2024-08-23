@@ -6,6 +6,7 @@
 
 <a href='https://arxiv.org/pdf/2405.11165'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 <a href='https://huggingface.co/collections/mengxizhang/amp-665589e5fda461267cfb402f'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'></a>
+[![zhihu](https://img.shields.io/badge/-知乎-000000?logo=zhihu&logoColor=0084FF)](https://zhuanlan.zhihu.com/p/700308854)
 
 [Mengxi Zhang](https://scholar.google.com/citations?user=73tAoEAAAAAJ&hl=en),
 [Wenhao Wu](https://whwu95.github.io/),
