@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Automated Multi-level Preference for MLLMs </h1>
+<h1> 【NeurIPS 2024】Automated Multi-level Preference for MLLMs </h1>
 
 <h4 align="center"> 
 
