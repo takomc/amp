@@ -128,7 +128,7 @@ If you find this repository is useful, please consider star🌟 this repo and ci
 @article{zhang2024amp,
       title={Automated Multi-level Preference for MLLMs}, 
       author={Zhang, Mengxi and Wu, Wenhao and Yu, Lu and Song, Yuxin and Rong, Kang and Yao, Huanjin and Zhang, Jianbo and Liu, Fanglong and Feng, Haocheng and Sun, Yifan and Wang, Jingdong},
-      journal={arXiv preprint arXiv:2405.11165},
+      journal={Advances in Neural Information Processing Systems},
       year={2024}
 }
 ```
