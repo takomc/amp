@@ -29,6 +29,7 @@
 
 ***
 ## News  
+- [x] Our **AMP** is accepted by NeurIPS 2024 as poster presentation!
 - [x] **[2024/05/29]** We relase **AMP** in [arxiv](https://arxiv.org/pdf/2405.11165)! Our code, [MRHal Benchmark](https://huggingface.co/datasets/mengxizhang/MRHal-Bench), and [models](https://huggingface.co/collections/mengxizhang/amp-665589e5fda461267cfb402f) are now open source!
 
 
